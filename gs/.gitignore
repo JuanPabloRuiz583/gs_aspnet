@@ -1,0 +1,15 @@
+# Pasta de cache do Visual Studio
+.vs/
+ 
+# Pastas temporárias
+bin/
+obj/
+ 
+# Arquivos de configuração locais
+*.user
+*.suo
+ 
+# Outros
+*.log
+*.db
+.vscode/
