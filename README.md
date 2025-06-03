@@ -40,6 +40,7 @@ Com o aumento de eventos extremos como enchentes, deslizamentos e incêndios, o 
 Usuarios- deixamos um usuario ja criado de exemplo no sistema:
 ![telaasp1](https://github.com/user-attachments/assets/deaa2bdc-76dc-41d5-9424-fd22f9295d6a)
 
+
 Alertas- esse nosso usuario criou uma alerta de um problema que ele noticiou vinculado a ele:
 ![telaasp2](https://github.com/user-attachments/assets/ea56c9ca-9d4b-4a23-96bb-7c0aab6e827e)
 
